@@ -26,8 +26,7 @@ UPLOAD_FOLDER ='static/uploads/'
 DOWNLOAD_FOLDER = 'static/downloads/'
 ALLOWED_EXTENSIONS = {'jpg', 'png','.jpeg'}
 
-lineaccesstoken = ''
-
+U26gtdGdHr2cECej2tv+nQrCWnZtOR5q3PHChH/yd1QkAxgnFt9E5p1JisoNcNXvYNsDenuAJFNy/OO8P9+hhRsHev3n/6GDeelMqYGpSfNMZ+ZbuGVRhgFizooGdelMqYGpSfNMZ+ZbuGVRhgFizo'
 line_bot_api = LineBotApi(lineaccesstoken)
 
 # APP CONFIGURATIONS
