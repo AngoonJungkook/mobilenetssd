@@ -26,8 +26,8 @@ UPLOAD_FOLDER ='static/uploads/'
 DOWNLOAD_FOLDER = 'static/downloads/'
 ALLOWED_EXTENSIONS = {'jpg', 'png','.jpeg'}
 
-lineaccesstoken  =  'U26gtdGdHr2cECej2tv+nQrCWnZtOR5q3PHChH/yd1QkAxgnFt9E5p1JisoNcNXvYNsDenuAJFNy/OO8P9+hhRsHev3n/6GDeelMqYGpSfNMZ+ZbuGVRhgFizooGdelMqYGpSfNMZ+ZbuGVRhgFizo'
-line_bot_api = LineBotApi(lineaccesstoken)
+lineaccesstoken               =      'U26gtdGdHr2cECej2tv+nQrCWnZtOR5q3PHChH/yd1QkAxgnFt9E5p1JisoNcNXvYNsDenuAJFNy/OO8P9+hhRsHev3n/6GDeelGMFigZbuZGNhOhRsHev3n/6GDeelGbugZbuZGNhOhRsHev3n/6GDeelGbugZbuZGNhOhRsHev3n/6GDeelGbugZbuZGNhOhRsHev3n/6GDeelGbugZbuZGNhOhRsHev3n/6GDeelGbugZbuZGNhOhRsHev3n/6GDeelGbugZbuZGNhOhGhRsHev3n/6GDeelGbuZbuZGNhOhRsHev3n'
+line_bot_api        =      LineBotApi ( lineaccesstoken )
 
 # APP CONFIGURATIONS
 app.config['SECRET_KEY'] = 'opencv'  
